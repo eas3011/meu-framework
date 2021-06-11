@@ -1,0 +1,17 @@
+{
+    "name": "eas/app-framework",
+    "description": "Meu Framework",
+    "authors": [
+        {
+            "name": "eas",
+            "email": "eas3011@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+             "app\\": "app/"
+         }
+      }
+}
